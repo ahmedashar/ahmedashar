@@ -1,9 +1,17 @@
 # Hi there, I'm Ashar Ahmed! 👋
 #### Front-End React Developer
-<img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
+<img align="right" width="40%" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
 
 ## About Me
 I am a passionate Front-End React Developer with a strong interest in building beautiful and interactive web applications. I love exploring new technologies and finding creative solutions to complex problems.
+
+🌱 Currently, I am working on MERN Stack Technology.
+
+💡 I am always eager to learn and take on new challenges in the world of web development.
+
+📫 You can reach me at [ahmedashar12345@gmail.com](ahmedashar12345@gmail.com).
+
+
 
 ## Skills
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedashar&layout=compact" />
