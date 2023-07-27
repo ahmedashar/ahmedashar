@@ -29,7 +29,7 @@ I am a passionate Front-End React Developer with a strong interest in building b
 ## Contact Me
 
 📧 Email: ahmedashar12345@gmail.com
-🐦 Twitter: [@ahmedashar](https://twitter.com/ahmedashar)
+🐦 Twitter: [@ahmedashar](https://github.com/ahmedashar)
 🌐 Portfolio: [ahmedashar.com](https://github.com/ahmedashar)
 
 ---
