@@ -34,6 +34,11 @@ I am a passionate Front-End React Developer with a strong interest in building b
   <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </p>
+
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=ahmedashar">
+</a>
+
 ## Contact Me
 
 📧 Email: ahmedashar12345@gmail.com
