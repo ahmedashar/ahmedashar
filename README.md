@@ -15,9 +15,11 @@ I am a passionate Front-End React Developer with a strong interest in building b
 
 ## Skills
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedashar&layout=compact" />
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=ahmedashar&show_icons=true&theme=radical" />
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=ahmedashar\&rank_icon=github" />
 
 
+
+https://github-readme-stats.vercel.app/api?username=anuraghazra\&rank_icon=github
 
 <p>
   <!-- Front-End Development -->
