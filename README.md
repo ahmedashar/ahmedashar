@@ -10,7 +10,10 @@ I am a passionate Front-End React Developer with a strong interest in building b
 💡 I am always eager to learn and take on new challenges in the world of web development.
 
 📫 You can reach me at [ahmedashar12345@gmail.com](ahmedashar12345@gmail.com).
-
+<br><br>
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=ahmedashar">
+</a>
 
 
 ## Skills
@@ -36,9 +39,7 @@ I am a passionate Front-End React Developer with a strong interest in building b
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </p>
 
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=ahmedashar">
-</a>
+
 
 ## Contact Me
 
